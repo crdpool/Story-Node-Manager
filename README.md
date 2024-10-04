@@ -1,4 +1,4 @@
-# Story Node Manager Script
+# Story Node Manager Script by CrdPool
 
 A Bash script to automate the installation, management, and maintenance of a Story node. This script provides a menu-driven interface for easy node setup, snapshot updates, validator creation, and log viewing.
 
