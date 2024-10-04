@@ -21,7 +21,3 @@ wget https://raw.githubusercontent.com/crdpool/Story-Node-Manager/main/story_nod
 - RAM: 16GB
 - Disk: 500GB
 - Bandwith: 25 MBit/s
-
-## Prerequisites
-- Ubuntu-based system with `sudo` access.
-- Internet connection for downloading dependencies and snapshots.
